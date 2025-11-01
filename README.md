@@ -9,13 +9,6 @@ This is a simple interactive To-Do List application built using HTML, CSS, and J
 - Remove tasks using a trash can icon button.
 - Persistent data storage with localStorage.
 
-## Usage
-
-Open `index.html` in a web browser.  
-Add tasks by typing in the input box and clicking "Add".  
-Click checkboxes to mark tasks done or undone.  
-Click the trash can icon to remove tasks.
-
 
 
 
